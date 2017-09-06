@@ -1,0 +1,10 @@
+{
+    "name": "zslzsl/blog",
+    "description": "a blog system",
+    "type": "project",
+    "require": {
+        "topthink/thinkphp": "3.2.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
